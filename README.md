@@ -25,7 +25,9 @@ from recsys_utils import *
 ```
 
 ## Dataset
-In this lab, we use the matrices x, w and b
+In this lab, we use the matrices Y, R, X, W and b
+
+<img width="963" alt="image" src="https://github.com/urltumanorb/Collaborative-Filtering-Recommender-Systems/assets/24932621/8f5dfbf6-bbe8-429b-8b79-100131fbc0c9">
 
 <img width="615" alt="image" src="https://github.com/urltumanorb/Collaborative-Filtering-Recommender-Systems/assets/24932621/94cdfe0b-0372-4e16-a35e-e65b319140b4">
 
